@@ -146,6 +146,7 @@ Raw Dataset (2M rows)
 | Name                  | Role                          | Responsibilities                                      |
 |-----------------------|-------------------------------|-------------------------------------------------------|
 | Durga Prasad Polisetty | Full Stack Developer & ML Engineer | Data preprocessing, model training, FastAPI backend, React frontend, deployment |
+| Sakthi S               | ML Model Developer                 | Model development, data engineering, feature engineering, model evaluation |
 
 ---
 
